@@ -1,0 +1,8 @@
+{
+  "name": "clearpath-relay",
+  "version": "2.0.0",
+  "description": "Anti-DPI serverless XHTTP relay for Xray/V2Ray on Vercel — camouflaged, multi-target, stream-optimised",
+  "private": true,
+  "license": "MIT",
+  "type": "module"
+}

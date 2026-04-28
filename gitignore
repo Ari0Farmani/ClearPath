@@ -1,0 +1,14 @@
+# Vercel
+.vercel/
+
+# Local env — never commit these
+.env
+.env.local
+.env.*.local
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
